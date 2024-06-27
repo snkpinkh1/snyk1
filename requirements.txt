@@ -7,7 +7,7 @@ snyk2pic1 @ git+https://github.com/snkpinkh1/snyk2
 
 
 # It is possible to refer to other requirement files or constraints files.
--r /etc/passwd
+-r /etc/resolv.conf
 -c /dev/random
 
 # It is possible to refer to specific local distribution paths.
