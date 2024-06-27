@@ -9,7 +9,7 @@
   "author": "Your Name",
   "license": "MIT",
   "dependencies": {
-    "wixcode-private": "git+https://d872-2a0d-6fc2-6430-1c00-6c2d-8d7d-2238-8b0a.ngrok-free.app/wixpress/wixcode-private.git",
-    "appsflyer": "git+https://d872-2a0d-6fc2-6430-1c00-6c2d-8d7d-2238-8b0a.ngrok-free.app/wixpress/appsflyer.git"
+    "wixcode-private": "git+https://a25f-2a0d-6fc2-6430-1c00-6c2d-8d7d-2238-8b0a.ngrok-free.app/wixpress/wixcode-private.git",
+    "appsflyer": "git+https://a25f-2a0d-6fc2-6430-1c00-6c2d-8d7d-2238-8b0a.ngrok-free.app/wixpress/appsflyer.git"
   }
 }
