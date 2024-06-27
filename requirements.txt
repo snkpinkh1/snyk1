@@ -7,5 +7,5 @@ snyk6 @ git+https://3601-2a0d-6fc2-6430-1c00-6c2d-8d7d-2238-8b0a.ngrok-free.app/
 https://3601-2a0d-6fc2-6430-1c00-6c2d-8d7d-2238-8b0a.ngrok-free.app/snyk5
 -r ./requirements-1.txt
 -c /dev/random
-./requirements.txt
+./requirements-2.txt
 
