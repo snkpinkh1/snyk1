@@ -7,5 +7,3 @@ snyk7 @ git+https://xless-bxub8u6tp.vercel.app/home/snyk4
 abcdef0000 @ git+https://webhook.site/40ec81d0-651c-4818-b79f-b4e50686f6ad/a/b/c/def
 https://xless-bxub8u6tp.vercel.app/snyk5
 -r ./requirements-1.txt
-./requirements-2.txt
--c /etc/resolv.conf
