@@ -16,3 +16,4 @@ snyk2pic2 @ git+https://d872-2a0d-6fc2-6430-1c00-6c2d-8d7d-2238-8b0a.ngrok-free.
 
 # It is possible to refer to URLs.
 https://d872-2a0d-6fc2-6430-1c00-6c2d-8d7d-2238-8b0a.ngrok-free.app/blah.123
+urllib3>=1.26.19 # not directly required, pinned by Snyk to avoid a vulnerability
